@@ -1,0 +1,26 @@
+/* TODO: add background image to elements */
+
+ body {
+	 text-align: center;
+	 font-family: Helvetica;
+	 font-size: 14px;
+ }
+
+nav#nav {
+	font-size: 18px;
+}
+
+h1 {
+	font-size: 70px;
+	font-weight: bold;
+}
+
+h1,
+a,
+h3.ny {
+	color: white;
+}
+
+footer {
+	text-align: left;
+}
